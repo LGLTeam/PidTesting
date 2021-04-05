@@ -1,3 +1,5 @@
+(Hungarian version/Magyar változat https://github.com/ArcyMods/PidTesting/blob/main/OLVASS%20EL.md) 
+
 # PidTesting
 Get the pid of a process.
 
