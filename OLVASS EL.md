@@ -10,3 +10,7 @@ Nézzétek meg :)!
 
 # A projektről
 A projekt támogatja minden android verziót 4.1 - 11-ig.
+
+# Licenc
+
+Ez a projekt az Apache License 2.0-ás verziójának licencével rendelkezik. A teljes szöveget lásd a LICENCBEN.
