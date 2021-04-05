@@ -1,4 +1,4 @@
-(English version/Angol verzió 
+(English version/Angol változat
 https://github.com/ArcyMods/PidTesting/blob/main/README.md) 
 
 # Pid tesztelés
