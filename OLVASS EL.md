@@ -1,4 +1,5 @@
-(English version/Angol verzió https://github.com/ArcyMods/PidTesting/blob/main/README.md) 
+(English version/Angol verzió 
+https://github.com/ArcyMods/PidTesting/blob/main/README.md) 
 
 # Pid tesztelés
 Szerezd meg egy folyamat pid-ét.
