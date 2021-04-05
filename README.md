@@ -9,3 +9,7 @@ Make sure to check it out :)!
 
 # About
 The project supports android version all the way from android version 4.1 - 11.
+
+# License
+
+This project is licensed under the Apache License, Version 2.0. Please refer to LICENSE for the full text.
